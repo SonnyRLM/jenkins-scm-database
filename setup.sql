@@ -20,7 +20,7 @@ INSERT INTO Books (
 ) VALUES (
         "The Beautiful Poetry of Donald Trump",
         "Robert Sears",
-        "https://books.google.com/books/content/images/frontcover/68CnDwAAQBAJ?fife=w200-h300"
+        "https://i.guim.co.uk/img/media/327e46c3ab049358fad80575146be9e0e65686e7/0_0_1023_742/master/1023.jpg?width=445&quality=45&auto=format&fit=max&dpr=2&s=331a1bc4f5d7a96a6131f4f142065662"
 );
 
 INSERT INTO Books (
